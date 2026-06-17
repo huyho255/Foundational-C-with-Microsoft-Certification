@@ -1,3 +1,9 @@
+This repository contains my code, notes, and exercises from the **Foundational C# with Microsoft** certification program on freeCodeCamp.
+
+- **Provider:** freeCodeCamp & Microsoft
+- **Estimated Time:** 35 hours
+- **Status:** Completed
+
 <div align="center">
 
 # Foundational C# with Microsoft
