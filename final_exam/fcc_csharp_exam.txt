@@ -1,0 +1,1736 @@
+Câu 1:
+Which method is used to concatenate strings in C#?
+
+Concat()
+
+Append()
+
+Merge()
+
+Concatenate()
+
+Add()
+
+Các phương án lựa chọn:
+  A. Concat()
+  B. Append()
+  C. Merge()
+  D. Concatenate()
+  E. Add()
+
+============================================================
+Câu 2:
+How do you check if two variables are not equal in an if statement in C#?
+
+if (variable1 ~ variable2)
+
+if (variable1 !== variable2)
+
+if (variable1 >< variable2)
+
+if (variable1 <> variable2)
+
+if (variable1 != variable2)
+
+Các phương án lựa chọn:
+  A. if (variable1 ~ variable2)
+  B. if (variable1 !== variable2)
+  C. if (variable1 >< variable2)
+  D. if (variable1 <> variable2)
+  E. if (variable1 != variable2)
+
+============================================================
+Câu 3:
+How do you check if an element exists in an array in C#?
+
+arrayName.Exist(element)
+
+arrayName.Contains(element)
+
+arrayName.Check(element)
+
+arrayName.IsIn(element)
+
+arrayName.Has(element)
+
+Các phương án lựa chọn:
+  A. arrayName.Exist(element)
+  B. arrayName.Contains(element)
+  C. arrayName.Check(element)
+  D. arrayName.IsIn(element)
+  E. arrayName.Has(element)
+
+============================================================
+Câu 4:
+How do you remove leading and trailing whitespace from a string in C#?
+
+string.StripWhitespace()
+
+string.Trim()
+
+string.Clean()
+
+string.RemoveWhitespace()
+
+string.TrimWhitespace()
+
+Các phương án lựa chọn:
+  A. string.StripWhitespace()
+  B. string.Trim()
+  C. string.Clean()
+  D. string.RemoveWhitespace()
+  E. string.TrimWhitespace()
+
+============================================================
+Câu 5:
+What is the lifetime of a variable declared inside a code block in C#?
+
+The lifetime is determined by the size of the code block.
+
+The lifetime is determined by the accessibility of the variable.
+
+The lifetime is unlimited.
+
+The lifetime is tied to the duration of the program.
+
+The lifetime is limited to the scope of the code block.
+
+Các phương án lựa chọn:
+  A. The lifetime is determined by the size of the code block.
+  B. The lifetime is determined by the accessibility of the variable.
+  C. The lifetime is unlimited.
+  D. The lifetime is tied to the duration of the program.
+  E. The lifetime is limited to the scope of the code block.
+
+============================================================
+Câu 6:
+What is the purpose of throwing an exception in C#?
+
+To improve program performance.
+
+To suppress error messages.
+
+To terminate the program execution immediately.
+
+To indicate that an error or exceptional condition has occurred.
+
+To enhance code readability.
+
+Các phương án lựa chọn:
+  A. To improve program performance.
+  B. To suppress error messages.
+  C. To terminate the program execution immediately.
+  D. To indicate that an error or exceptional condition has occurred.
+  E. To enhance code readability.
+
+============================================================
+Câu 7:
+How do you declare a variable with a limited scope inside a code block in C#?
+
+Declare the variable inside the code block using the desired data type.
+
+Declare the variable as static.
+
+Declare the variable as global.
+
+Declare the variable outside of the code block.
+
+Use the private access modifier.
+
+Các phương án lựa chọn:
+  A. Declare the variable inside the code block using the desired data type.
+  B. Declare the variable as static.
+  C. Declare the variable as global.
+  D. Declare the variable outside of the code block.
+  E. Use the private access modifier.
+
+============================================================
+Câu 8:
+What is the purpose of the "return" statement in a method?
+
+Return a value
+
+Receive user input
+
+Display output on the console
+
+Execute a loop
+
+Clear memory resources
+
+Các phương án lựa chọn:
+  A. Return a value
+  B. Receive user input
+  C. Display output on the console
+  D. Execute a loop
+  E. Clear memory resources
+
+============================================================
+Câu 9:
+What is the correct syntax to declare a variable named count of type integer in C#?
+
+set count;
+
+integer count;
+
+declare count as integer;
+
+int count;
+
+variable count = int;
+
+Các phương án lựa chọn:
+  A. set count;
+  B. integer count;
+  C. declare count as integer;
+  D. int count;
+  E. variable count = int;
+
+============================================================
+Câu 10:
+What is the purpose of debugging in software development?
+
+Debugging is used to create a backup copy of the code.
+
+Debugging is a technique to encrypt the code and protect it from unauthorized access.
+
+Debugging is the process of compiling the code to machine language.
+
+Debugging is the process of identifying and resolving errors, bugs, and issues in the code.
+
+Debugging is used to generate documentation for the code.
+
+Các phương án lựa chọn:
+  A. Debugging is used to create a backup copy of the code.
+  B. Debugging is a technique to encrypt the code and protect it from unauthorized access.
+  C. Debugging is the process of compiling the code to machine language.
+  D. Debugging is the process of identifying and resolving errors, bugs, and issues in the code.
+  E. Debugging is used to generate documentation for the code.
+
+============================================================
+Câu 11:
+Given the following code snippet, what will the method MultiplyNumbers() return when called with the arguments 3 and 4?
+
+public int
+MultiplyNumbers(int num1, int num2) {
+    return num1 * num2;
+}
+
+
+"34"
+
+0
+
+1
+
+10
+
+12
+
+Các phương án lựa chọn:
+  A. "34"
+  B. 0
+  C. 1
+  D. 10
+  E. 12
+
+============================================================
+Câu 12:
+How do you inspect the value of a variable during debugging in Visual Studio Code?
+
+Use the shortcut Ctrl+Shift+I to inspect the variable.
+
+Right-click on the variable and select Inspect Value.
+
+Select the variable and press F12 to view its value.
+
+Place a mouse cursor on the variable while debugging.
+
+Open the Debug menu and choose Inspect Variable Value.
+
+Các phương án lựa chọn:
+  A. Use the shortcut Ctrl+Shift+I to inspect the variable.
+  B. Right-click on the variable and select Inspect Value.
+  C. Select the variable and press F12 to view its value.
+  D. Place a mouse cursor on the variable while debugging.
+  E. Open the Debug menu and choose Inspect Variable Value.
+
+============================================================
+Câu 13:
+How do you convert a numeric value to a string with a specific number of decimal places in C#?
+
+value.ToString("0.000")
+
+value.ToString("0.00")
+
+value.ToString("0.0#")
+
+value.ToString("0.###")
+
+value.ToString("0.##")
+
+Các phương án lựa chọn:
+  A. value.ToString("0.000")
+  B. value.ToString("0.00")
+  C. value.ToString("0.0#")
+  D. value.ToString("0.###")
+  E. value.ToString("0.##")
+
+============================================================
+Câu 14:
+What is the result of the following expression: 5 / 2?
+
+2.25
+
+2.5
+
+2.0
+
+3.5
+
+2
+
+Các phương án lựa chọn:
+  A. 2.25
+  B. 2.5
+  C. 2.0
+  D. 3.5
+  E. 2
+
+============================================================
+Câu 15:
+What is the output of the following code snippet?
+
+string name = "Alice";
+int age = 25;
+Console.WriteLine($"My name is {name} and I'm {age} years old.");
+
+
+My name is Alice and I'm 25 years.
+
+My name is Alice and I'm 25 years old.
+
+My name is {name} and I'm {age} years old.
+
+The code will result in an error.
+
+My name is {name} and I'm {age} years.
+
+Các phương án lựa chọn:
+  A. My name is Alice and I'm 25 years.
+  B. My name is Alice and I'm 25 years old.
+  C. My name is {name} and I'm {age} years old.
+  D. The code will result in an error.
+  E. My name is {name} and I'm {age} years.
+
+============================================================
+Câu 16:
+What is the purpose of the "Watch" window in Visual Studio Code debugging?
+
+It provides a summary of program performance metrics.
+
+It shows the call stack of function calls during debugging.
+
+It allows you to add bookmarks to specific lines of code.
+
+It shows the values of variables and expressions during debugging.
+
+It allows you to modify the value of variables during debugging.
+
+Các phương án lựa chọn:
+  A. It provides a summary of program performance metrics.
+  B. It shows the call stack of function calls during debugging.
+  C. It allows you to add bookmarks to specific lines of code.
+  D. It shows the values of variables and expressions during debugging.
+  E. It allows you to modify the value of variables during debugging.
+
+============================================================
+Câu 17:
+Given the following code snippet, which casting technique can be used to convert an integer variable x into a double variable y?
+
+int x = 5;
+double y;
+
+
+y = (double)x;
+
+y = x.Cast<double>();
+
+y = x.AsDouble();
+
+y = x.ToDouble();
+
+y = Convert.ToDouble(x.ToString());
+
+Các phương án lựa chọn:
+  A. y = (double)x;
+  B. y = x.Cast<double>();
+  C. y = x.AsDouble();
+  D. y = x.ToDouble();
+  E. y = Convert.ToDouble(x.ToString());
+
+============================================================
+Câu 18:
+How do you declare and initialize an array in C#?
+
+Array arrayName = new Array<type>();
+
+Array<type> arrayName = new Array<type>();
+
+type[] arrayName = new type[size];
+
+type arrayName[] = new type[];
+
+Array arrayName = new Array();
+
+Các phương án lựa chọn:
+  A. Array arrayName = new Array<type>();
+  B. Array<type> arrayName = new Array<type>();
+  C. type[] arrayName = new type[size];
+  D. type arrayName[] = new type[];
+  E. Array arrayName = new Array();
+
+============================================================
+Câu 19:
+Which of the following options represents the correct way to declare the entry point for a C# program?
+
+void Main(string[] args)
+
+static int Main(string[] args)
+
+public static void Entry(string[] args)
+
+public static void Main(string args[])
+
+public static int Main()
+
+Các phương án lựa chọn:
+  A. void Main(string[] args)
+  B. static int Main(string[] args)
+  C. public static void Entry(string[] args)
+  D. public static void Main(string args[])
+  E. public static int Main()
+
+============================================================
+Câu 20:
+What is the purpose of conditional statements in C#?
+
+Repeat code execution
+
+Display error messages
+
+Calculate complex formulas
+
+Control the flow of the program
+
+Define variable types
+
+Các phương án lựa chọn:
+  A. Repeat code execution
+  B. Display error messages
+  C. Calculate complex formulas
+  D. Control the flow of the program
+  E. Define variable types
+
+============================================================
+Câu 21:
+What happens if none of the conditions in an if-else chain are true?
+
+The program enters an infinite loop.
+
+The program crashes.
+
+The else statement is executed.
+
+The else if statement is executed.
+
+The if statement is executed.
+
+Các phương án lựa chọn:
+  A. The program enters an infinite loop.
+  B. The program crashes.
+  C. The else statement is executed.
+  D. The else if statement is executed.
+  E. The if statement is executed.
+
+============================================================
+Câu 22:
+What is the output of the following code snippet?
+
+int x = 5;
+int y = 3;
+int result = x + y;
+Console.WriteLine(result);
+
+
+35
+
+The code will result in an error.
+
+15
+
+8
+
+2
+
+Các phương án lựa chọn:
+  A. 35
+  B. The code will result in an error.
+  C. 15
+  D. 8
+  E. 2
+
+============================================================
+Câu 23:
+How do you call a method with parameters from the Main method in C#?
+
+Use the 'execute' keyword before the method name.
+
+Use the 'run' keyword before the method name.
+
+Place the parameters before the method name.
+
+Use the 'invoke' keyword before the method name.
+
+Specify the method name followed by the arguments enclosed in parentheses.
+
+Các phương án lựa chọn:
+  A. Use the 'execute' keyword before the method name.
+  B. Use the 'run' keyword before the method name.
+  C. Place the parameters before the method name.
+  D. Use the 'invoke' keyword before the method name.
+  E. Specify the method name followed by the arguments enclosed in parentheses.
+
+============================================================
+Câu 24:
+What is the syntax to access the element at index 3 of an array named numbers in C#?
+
+numbers[3]
+
+numbers.getElement(3)
+
+numbers.index(3)
+
+numbers{3}
+
+numbers.at(3)
+
+Các phương án lựa chọn:
+  A. numbers[3]
+  B. numbers.getElement(3)
+  C. numbers.index(3)
+  D. numbers{3}
+  E. numbers.at(3)
+
+============================================================
+Câu 25:
+What is the purpose of the Main method in a C# console application?
+
+It is used to display messages on the console.
+
+It is used for error handling and exception catching.
+
+It is responsible for memory management.
+
+It is the entry point of the application.
+
+It is used to define classes and objects.
+
+Các phương án lựa chọn:
+  A. It is used to display messages on the console.
+  B. It is used for error handling and exception catching.
+  C. It is responsible for memory management.
+  D. It is the entry point of the application.
+  E. It is used to define classes and objects.
+
+============================================================
+Câu 26:
+What are parameters in a C# method?
+
+Conditions used to control the flow of execution.
+
+Definitions for inputs or arguments passed to a method.
+
+Reserved keywords in C#.
+
+Special characters used for string manipulation.
+
+Syntax errors that result in compilation errors.
+
+Các phương án lựa chọn:
+  A. Conditions used to control the flow of execution.
+  B. Definitions for inputs or arguments passed to a method.
+  C. Reserved keywords in C#.
+  D. Special characters used for string manipulation.
+  E. Syntax errors that result in compilation errors.
+
+============================================================
+Câu 27:
+Given the following code snippet, what method can be used to concatenate all the elements in the names array into a single string?
+
+string[] names = { "Alice", "Bob", "Charlie" };
+
+
+names.Combine()
+
+string.Join(" ", names)
+
+string.Join(names)
+
+string.Concatenate(names)
+
+string.Combine(names)
+
+Các phương án lựa chọn:
+  A. names.Combine()
+  B. string.Join(" ", names)
+  C. string.Join(names)
+  D. string.Concatenate(names)
+  E. string.Combine(names)
+
+============================================================
+Câu 28:
+What is the recommended data type to store a single character in C#?
+
+char[]
+
+string
+
+int
+
+char
+
+float
+
+Các phương án lựa chọn:
+  A. char[]
+  B. string
+  C. int
+  D. char
+  E. float
+
+============================================================
+Câu 29:
+How do you resume program execution after hitting a breakpoint in Visual Studio Code?
+
+Proceed.
+
+Continue.
+
+Restart.
+
+Start.
+
+Play.
+
+Các phương án lựa chọn:
+  A. Proceed.
+  B. Continue.
+  C. Restart.
+  D. Start.
+  E. Play.
+
+============================================================
+Câu 30:
+Which data type would you use to store a large whole number in C#?
+
+long
+
+decimal
+
+string
+
+float
+
+bool
+
+Các phương án lựa chọn:
+  A. long
+  B. decimal
+  C. string
+  D. float
+  E. bool
+
+============================================================
+Câu 31:
+How do you write an else statement in C#?
+
+else
+
+else_if (condition)
+
+elseif (condition)
+
+else condition
+
+if-else (condition)
+
+Các phương án lựa chọn:
+  A. else
+  B. else_if (condition)
+  C. elseif (condition)
+  D. else condition
+  E. if-else (condition)
+
+============================================================
+Câu 32:
+What will be the output of the following code snippet?
+
+int dayOfWeek = 3;
+string dayName;
+
+switch (dayOfWeek)
+{
+    case 1:
+        dayName = "Monday";
+        break;
+    case 2:
+        dayName = "Tuesday";
+        break;
+    default:
+        dayName = "Unknown";
+        break;
+}
+
+Console.WriteLine(dayName);
+
+
+Unknown
+
+Nothing will be output.
+
+Thursday
+
+Tuesday
+
+Compiler error.
+
+Các phương án lựa chọn:
+  A. Unknown
+  B. Nothing will be output.
+  C. Thursday
+  D. Tuesday
+  E. Compiler error.
+
+============================================================
+Câu 33:
+How do you format a date value to display only the month and year in C#?
+
+date.ToString("DD/yyyy")
+
+date.ToString("MM/yyyy")
+
+date.ToString("mm/yyyy")
+
+date.ToString("dd/yyyy")
+
+date.ToString("MM/yy")
+
+Các phương án lựa chọn:
+  A. date.ToString("DD/yyyy")
+  B. date.ToString("MM/yyyy")
+  C. date.ToString("mm/yyyy")
+  D. date.ToString("dd/yyyy")
+  E. date.ToString("MM/yy")
+
+============================================================
+Câu 34:
+How do you define a method in C#?
+
+methodName(parameters) -> { ... }
+
+methodName(parameters) { ... }
+
+returnType methodName(parameters) { ... }
+
+void methodName(parameters) => { ... }
+
+def methodName(parameters) { ... }
+
+Các phương án lựa chọn:
+  A. methodName(parameters) -> { ... }
+  B. methodName(parameters) { ... }
+  C. returnType methodName(parameters) { ... }
+  D. void methodName(parameters) => { ... }
+  E. def methodName(parameters) { ... }
+
+============================================================
+Câu 35:
+What is the purpose of the placeholder {0} in a formatted string in C#?
+
+It specifies the index of the first element in an array.
+
+It represents the number of characters to align in a formatted string.
+
+It denotes the position of the argument within the format method.
+
+It indicates the maximum length of a string.
+
+It represents the decimal precision of a floating-point number.
+
+Các phương án lựa chọn:
+  A. It specifies the index of the first element in an array.
+  B. It represents the number of characters to align in a formatted string.
+  C. It denotes the position of the argument within the format method.
+  D. It indicates the maximum length of a string.
+  E. It represents the decimal precision of a floating-point number.
+
+============================================================
+Câu 36:
+What is the purpose of a return type in a C# method declaration?
+
+It controls the accessibility of the method.
+
+It specifies the data type of the method itself.
+
+It indicates whether the method is a constructor.
+
+It indicates the type of value that the method returns to the caller.
+
+It determines the order of execution of the method.
+
+Các phương án lựa chọn:
+  A. It controls the accessibility of the method.
+  B. It specifies the data type of the method itself.
+  C. It indicates whether the method is a constructor.
+  D. It indicates the type of value that the method returns to the caller.
+  E. It determines the order of execution of the method.
+
+============================================================
+Câu 37:
+What is the default value of an uninitialized variable of type string in C#?
+
+0
+
+false
+
+""
+
+"undefined"
+
+null
+
+Các phương án lựa chọn:
+  A. 0
+  B. false
+  C. ""
+  D. "undefined"
+  E. null
+
+============================================================
+Câu 38:
+What is the difference between implicit casting and explicit casting in C#?
+
+Implicit casting is done automatically by the compiler, while explicit casting requires manual intervention.
+
+Implicit casting can lead to data loss, while explicit casting does not.
+
+Implicit casting can only be performed on value types, while explicit casting can be performed on both value types and reference types.
+
+Implicit casting is used for converting between compatible data types, while explicit casting is used for incompatible data types.
+
+Implicit casting requires a cast operator, while explicit casting does not.
+
+Các phương án lựa chọn:
+  A. Implicit casting is done automatically by the compiler, while explicit casting requires manual intervention.
+  B. Implicit casting can lead to data loss, while explicit casting does not.
+  C. Implicit casting can only be performed on value types, while explicit casting can be performed on both value types and reference types.
+  D. Implicit casting is used for converting between compatible data types, while explicit casting is used for incompatible data types.
+  E. Implicit casting requires a cast operator, while explicit casting does not.
+
+============================================================
+Câu 39:
+What is the difference between the do-while and while statements in C#?
+
+The do-while statement requires an initialization step, while the while statement does not.
+
+The while statement is used for looping, while the do-while statement is used for conditional checks.
+
+The do-while statement can only be used with integers.
+
+The do-while statement is executed at least once, while the while statement may not be executed at all.
+
+The while statement is followed by a condition in parentheses, while the do-while statement is followed by a colon.
+
+Các phương án lựa chọn:
+  A. The do-while statement requires an initialization step, while the while statement does not.
+  B. The while statement is used for looping, while the do-while statement is used for conditional checks.
+  C. The do-while statement can only be used with integers.
+  D. The do-while statement is executed at least once, while the while statement may not be executed at all.
+  E. The while statement is followed by a condition in parentheses, while the do-while statement is followed by a colon.
+
+============================================================
+Câu 40:
+How do you create a custom exception in C#?
+
+Implement the ICustomException interface.
+
+Inherit from the System.IO.IOException class.
+
+Use the ApplicationException class.
+
+Create a new instance of the Exception class.
+
+Create a new class that inherits from the Exception class.
+
+Các phương án lựa chọn:
+  A. Implement the ICustomException interface.
+  B. Inherit from the System.IO.IOException class.
+  C. Use the ApplicationException class.
+  D. Create a new instance of the Exception class.
+  E. Create a new class that inherits from the Exception class.
+
+============================================================
+Câu 41:
+What is the syntax for an else if statement in C#?
+
+else-if (condition)
+
+else if (condition)
+
+else_if (condition)
+
+elseif (condition)
+
+elsif (condition)
+
+Các phương án lựa chọn:
+  A. else-if (condition)
+  B. else if (condition)
+  C. else_if (condition)
+  D. elseif (condition)
+  E. elsif (condition)
+
+============================================================
+Câu 42:
+How do you pass a value to a method parameter in C#?
+
+Provide the value as an argument when calling the method.
+
+Use the pass keyword before the value.
+
+Use the out keyword before the value.
+
+Use the ref keyword before the value.
+
+Use the this keyword before the value.
+
+Các phương án lựa chọn:
+  A. Provide the value as an argument when calling the method.
+  B. Use the pass keyword before the value.
+  C. Use the out keyword before the value.
+  D. Use the ref keyword before the value.
+  E. Use the this keyword before the value.
+
+============================================================
+Câu 43:
+What is the result of the following expression?
+
+int x = 10;
+int y = 3;
+int result = x % y;
+
+
+7
+
+1
+
+0
+
+The code will result in an error.
+
+3
+
+Các phương án lựa chọn:
+  A. 7
+  B. 1
+  C. 0
+  D. The code will result in an error.
+  E. 3
+
+============================================================
+Câu 44:
+What is the primary job of the C# compiler?
+
+To optimize the C# program.
+
+To provide an integrated development environment (IDE).
+
+To manage memory in the C# program.
+
+To execute the C# program.
+
+To translate C# code into executable code.
+
+Các phương án lựa chọn:
+  A. To optimize the C# program.
+  B. To provide an integrated development environment (IDE).
+  C. To manage memory in the C# program.
+  D. To execute the C# program.
+  E. To translate C# code into executable code.
+
+============================================================
+Câu 45:
+How do you specify a custom error message when throwing an exception in C#?
+
+Pass the error message as a parameter to the Exception constructor.
+
+Override the ToString() method in the Exception class.
+
+Assign the error message directly to the Exception object.
+
+Set the Message property of the Exception class.
+
+Use the InnerException property of the Exception class.
+
+Các phương án lựa chọn:
+  A. Pass the error message as a parameter to the Exception constructor.
+  B. Override the ToString() method in the Exception class.
+  C. Assign the error message directly to the Exception object.
+  D. Set the Message property of the Exception class.
+  E. Use the InnerException property of the Exception class.
+
+============================================================
+Câu 46:
+Given the following code snippet, which data type would be the most appropriate for storing the result of dividing x by y?
+
+int x = 5;
+double y = 2.7;
+
+
+long
+
+double
+
+char
+
+float
+
+int
+
+Các phương án lựa chọn:
+  A. long
+  B. double
+  C. char
+  D. float
+  E. int
+
+============================================================
+Câu 47:
+How do you align a numeric value to the right within a specified width in C#?
+
+value.ToString().PadLeft(width)
+
+right-align(value, width)
+
+format(value, width)
+
+align_right(value, width)
+
+pad_left(value, width)
+
+Các phương án lựa chọn:
+  A. value.ToString().PadLeft(width)
+  B. right-align(value, width)
+  C. format(value, width)
+  D. align_right(value, width)
+  E. pad_left(value, width)
+
+============================================================
+Câu 48:
+What is the purpose of try-catch blocks in C#?
+
+To validate user input.
+
+To define custom exception classes.
+
+To prevent errors from occurring.
+
+To improve code performance.
+
+To handle and manage exceptions.
+
+Các phương án lựa chọn:
+  A. To validate user input.
+  B. To define custom exception classes.
+  C. To prevent errors from occurring.
+  D. To improve code performance.
+  E. To handle and manage exceptions.
+
+============================================================
+Câu 49:
+How do you call a method named PrintMessage from the Main method in C#?
+
+PrintMessage();
+
+PrintMessage.method();
+
+PrintMessage.method;
+
+call PrintMessage();
+
+invoke PrintMessage();
+
+Các phương án lựa chọn:
+  A. PrintMessage();
+  B. PrintMessage.method();
+  C. PrintMessage.method;
+  D. call PrintMessage();
+  E. invoke PrintMessage();
+
+============================================================
+Câu 50:
+What happens if you declare a return type in a method but do not return a value in C#?
+
+A compiler error is thrown.
+
+A warning message is displayed.
+
+The program crashes.
+
+The program enters an infinite loop.
+
+The return type defaults to void.
+
+Các phương án lựa chọn:
+  A. A compiler error is thrown.
+  B. A warning message is displayed.
+  C. The program crashes.
+  D. The program enters an infinite loop.
+  E. The return type defaults to void.
+
+============================================================
+Câu 51:
+What is the difference between a void method and a method with a return type in C#?
+
+A method with a return type cannot have parameters.
+
+A void method does not return a value, while a method with a return type returns a specific value.
+
+A void method cannot be called from another method.
+
+A method with a return type is not allowed to have statements inside its body.
+
+A method with a return type can only return numeric values.
+
+Các phương án lựa chọn:
+  A. A method with a return type cannot have parameters.
+  B. A void method does not return a value, while a method with a return type returns a specific value.
+  C. A void method cannot be called from another method.
+  D. A method with a return type is not allowed to have statements inside its body.
+  E. A method with a return type can only return numeric values.
+
+============================================================
+Câu 52:
+Which file extension is commonly used for C# source code files in Visual Studio Code?
+
+.cpp
+
+.py
+
+.cs
+
+.cp
+
+.csproj
+
+Các phương án lựa chọn:
+  A. .cpp
+  B. .py
+  C. .cs
+  D. .cp
+  E. .csproj
+
+============================================================
+Câu 53:
+How do you define a method with multiple parameters in C#?
+
+Enclose the parameters in square brackets.
+
+Separate the parameters with the 'and' keyword.
+
+Declare each parameter on a new line.
+
+Specify the parameters separated by commas.
+
+Use semicolons to separate the parameters.
+
+Các phương án lựa chọn:
+  A. Enclose the parameters in square brackets.
+  B. Separate the parameters with the 'and' keyword.
+  C. Declare each parameter on a new line.
+  D. Specify the parameters separated by commas.
+  E. Use semicolons to separate the parameters.
+
+============================================================
+Câu 54:
+How do you convert a variable named,"x", of type double to an integer in C#?
+
+int.Convert(x);
+
+double.ConvertToInt32(x);
+
+Convert.ToInt(x);
+
+x.ToInt();
+
+(int)x;
+
+Các phương án lựa chọn:
+  A. int.Convert(x);
+  B. double.ConvertToInt32(x);
+  C. Convert.ToInt(x);
+  D. x.ToInt();
+  E. (int)x;
+
+============================================================
+Câu 55:
+What is the purpose of the foreach statement in C#?
+
+Iterating over a sequence of numbers.
+
+Performing mathematical operations.
+
+Defining a method or function.
+
+Iterating over elements in a collection.
+
+Executing a block of code repeatedly.
+
+Các phương án lựa chọn:
+  A. Iterating over a sequence of numbers.
+  B. Performing mathematical operations.
+  C. Defining a method or function.
+  D. Iterating over elements in a collection.
+  E. Executing a block of code repeatedly.
+
+============================================================
+Câu 56:
+How does debugging help in finding and fixing issues in code?
+
+Debugging provides detailed documentation on how the code works.
+
+Debugging allows developers to step through the code and track the flow of execution.
+
+Debugging automatically fixes any issues in the code.
+
+Debugging provides suggestions for code improvements and optimizations.
+
+Debugging allows developers to modify the code directly in the production environment.
+
+Các phương án lựa chọn:
+  A. Debugging provides detailed documentation on how the code works.
+  B. Debugging allows developers to step through the code and track the flow of execution.
+  C. Debugging automatically fixes any issues in the code.
+  D. Debugging provides suggestions for code improvements and optimizations.
+  E. Debugging allows developers to modify the code directly in the production environment.
+
+============================================================
+Câu 57:
+Which of the following options represents the correct way to calculate the remainder of dividing two integers?
+
+x % (y - 1)
+
+Math.Mod(x, y)
+
+x.RemainderOf(y)
+
+x % y
+
+Math.Remainder(x, y)
+
+Các phương án lựa chọn:
+  A. x % (y - 1)
+  B. Math.Mod(x, y)
+  C. x.RemainderOf(y)
+  D. x % y
+  E. Math.Remainder(x, y)
+
+============================================================
+Câu 58:
+What is an exception in C#?
+
+An exception is a reserved word that represents a collection of values.
+
+An exception is a method that converts one data type to another.
+
+An exception is an unexpected event or error that occurs during program execution.
+
+An exception is a control statement that alters the flow of program execution.
+
+An exception is a data structure used to store multiple values.
+
+Các phương án lựa chọn:
+  A. An exception is a reserved word that represents a collection of values.
+  B. An exception is a method that converts one data type to another.
+  C. An exception is an unexpected event or error that occurs during program execution.
+  D. An exception is a control statement that alters the flow of program execution.
+  E. An exception is a data structure used to store multiple values.
+
+============================================================
+Câu 59:
+How do you negate a Boolean value in C#?
+
+xor
+
+||
+
+&
+
+not
+
+!
+
+Các phương án lựa chọn:
+  A. xor
+  B. ||
+  C. &
+  D. not
+  E. !
+
+============================================================
+Câu 60:
+What is the purpose of the string interpolation feature in C#?
+
+To convert strings to uppercase or lowercase.
+
+To split a string into multiple substrings.
+
+To format strings based on variables or expressions.
+
+To convert strings to numeric values.
+
+To remove spaces from a string.
+
+Các phương án lựa chọn:
+  A. To convert strings to uppercase or lowercase.
+  B. To split a string into multiple substrings.
+  C. To format strings based on variables or expressions.
+  D. To convert strings to numeric values.
+  E. To remove spaces from a string.
+
+============================================================
+Câu 61:
+What feature in Visual Studio helps identify the value of a variable during debugging?
+
+Refactoring.
+
+Quick Info.
+
+Locals window.
+
+Code Snippets.
+
+IntelliSense.
+
+Các phương án lựa chọn:
+  A. Refactoring.
+  B. Quick Info.
+  C. Locals window.
+  D. Code Snippets.
+  E. IntelliSense.
+
+============================================================
+Câu 62:
+What is the data type used to represent a true or false value in C#?
+
+char
+
+int
+
+bool
+
+decimal
+
+string
+
+Các phương án lựa chọn:
+  A. char
+  B. int
+  C. bool
+  D. decimal
+  E. string
+
+============================================================
+Câu 63:
+How do you specify the default case in a switch statement in C#?
+
+else:
+
+default:
+
+case "default":
+
+case:
+
+case default:
+
+Các phương án lựa chọn:
+  A. else:
+  B. default:
+  C. case "default":
+  D. case:
+  E. case default:
+
+============================================================
+Câu 64:
+How do you find the length of an array named, "employees", in C#?
+
+employees.length
+
+employees.count
+
+employees.length()
+
+employees.count()
+
+employees.Length
+
+Các phương án lựa chọn:
+  A. employees.length
+  B. employees.count
+  C. employees.length()
+  D. employees.count()
+  E. employees.Length
+
+============================================================
+Câu 65:
+How do you add a multi-line comment in C#?
+
+/* This is a multi-line comment */
+
+// This is a multi-line comment
+
+%% This is a multi-line comment %%
+
+** This is a multi-line comment **
+
+'''''' This is a multi-line comment ''''''
+
+Các phương án lựa chọn:
+  A. /* This is a multi-line comment */
+  B. // This is a multi-line comment
+  C. %% This is a multi-line comment %%
+  D. ** This is a multi-line comment **
+  E. '''''' This is a multi-line comment ''''''
+
+============================================================
+Câu 66:
+What is the difference between a compile-time error and a runtime error in C#?
+
+A compile-time error can be caught and handled by exception handling, while a runtime error cannot be handled.
+
+A compile-time error is a fatal error that crashes the program, while a runtime error allows the program to continue executing.
+
+A compile-time error is caused by incorrect syntax, while a runtime error is caused by logical errors or exceptional conditions.
+
+A compile-time error is easier to fix than a runtime error.
+
+A compile-time error is caused by hardware issues, while a runtime error is caused by software conflicts.
+
+Các phương án lựa chọn:
+  A. A compile-time error can be caught and handled by exception handling, while a runtime error cannot be handled.
+  B. A compile-time error is a fatal error that crashes the program, while a runtime error allows the program to continue executing.
+  C. A compile-time error is caused by incorrect syntax, while a runtime error is caused by logical errors or exceptional conditions.
+  D. A compile-time error is easier to fix than a runtime error.
+  E. A compile-time error is caused by hardware issues, while a runtime error is caused by software conflicts.
+
+============================================================
+Câu 67:
+Which keyword is used to define the entry point of a C# program?
+
+entry
+
+execute
+
+main
+
+begin
+
+start
+
+Các phương án lựa chọn:
+  A. entry
+  B. execute
+  C. main
+  D. begin
+  E. start
+
+============================================================
+Câu 68:
+Which of the following C# code will display Hello, World! on the console?
+
+Console.Print("Hello, World!")
+
+Console.WriteLine("Hello, World!");
+
+Console.write("Hello, World!");
+
+print("Hello, World!");
+
+Display("Hello, World!")
+
+Các phương án lựa chọn:
+  A. Console.Print("Hello, World!")
+  B. Console.WriteLine("Hello, World!");
+  C. Console.write("Hello, World!");
+  D. print("Hello, World!");
+  E. Display("Hello, World!")
+
+============================================================
+Câu 69:
+How do you pass arguments to a method in C#?
+
+Separate arguments with a semicolon: ;
+
+Wrap arguments in quotation marks: ""
+
+Enclose arguments in curly braces: {}
+
+Enclose arguments in parentheses: ()
+
+Place arguments in square brackets: []
+
+Các phương án lựa chọn:
+  A. Separate arguments with a semicolon: ;
+  B. Wrap arguments in quotation marks: ""
+  C. Enclose arguments in curly braces: {}
+  D. Enclose arguments in parentheses: ()
+  E. Place arguments in square brackets: []
+
+============================================================
+Câu 70:
+How do you access the value at index 2 of an array named numbers in C#?
+
+numbers{2}
+
+numbers[2]
+
+numbers(2)
+
+numbers|2|
+
+numbers@2
+
+Các phương án lựa chọn:
+  A. numbers{2}
+  B. numbers[2]
+  C. numbers(2)
+  D. numbers|2|
+  E. numbers@2
+
+============================================================
+Câu 71:
+What is the best way to increment the value of a variable x by 1 in C#?
+
+x = x - 1
+
+x = 1 + x
+
+x + 1
+
+x++
+
+x += 1
+
+Các phương án lựa chọn:
+  A. x = x - 1
+  B. x = 1 + x
+  C. x + 1
+  D. x++
+  E. x += 1
+
+============================================================
+Câu 72:
+Which data type is valid as an expression in a switch statement in C#?
+
+string
+
+object
+
+int[]
+
+float
+
+bool
+
+Các phương án lựa chọn:
+  A. string
+  B. object
+  C. int[]
+  D. float
+  E. bool
+
+============================================================
+Câu 73:
+How do you format a string to include a decimal number with two digits after the decimal point in C#?
+
+number.ToString("N2")
+
+number.ToString("F2")
+
+string.Format("{0:F2}", number)
+
+String.Format("{0:000.00}", number)
+
+number.ToString("D2")
+
+Các phương án lựa chọn:
+  A. number.ToString("N2")
+  B. number.ToString("F2")
+  C. string.Format("{0:F2}", number)
+  D. String.Format("{0:000.00}", number)
+  E. number.ToString("D2")
+
+============================================================
+Câu 74:
+What is the role of the .NET Class Library in C# development?
+
+It is used for creating graphical user interfaces (GUI) in C#.
+
+It is a collection of predefined classes, interfaces, and value types.
+
+It is used for storing and managing databases.
+
+It is responsible for executing C# code on the server-side.
+
+It is responsible for connecting C# applications to external APIs.
+
+Các phương án lựa chọn:
+  A. It is used for creating graphical user interfaces (GUI) in C#.
+  B. It is a collection of predefined classes, interfaces, and value types.
+  C. It is used for storing and managing databases.
+  D. It is responsible for executing C# code on the server-side.
+  E. It is responsible for connecting C# applications to external APIs.
+
+============================================================
+Câu 75:
+Given the following code snippet, what is the purpose of the parameter name in the method GreetUser()?
+
+public void GreetUser(string name) {
+    Console.WriteLine("Hello, " + name + "!");
+}
+
+
+The parameter name is used to pass a string value to the method.
+
+The parameter name is used to store a boolean value.
+
+The parameter name is used to define the access level of the method.
+
+The parameter name is used to specify the return type of the method.
+
+The parameter name is used to create an instance of the class.
+
+Các phương án lựa chọn:
+  A. The parameter name is used to pass a string value to the method.
+  B. The parameter name is used to store a boolean value.
+  C. The parameter name is used to define the access level of the method.
+  D. The parameter name is used to specify the return type of the method.
+  E. The parameter name is used to create an instance of the class.
+
+============================================================
+Câu 76:
+What happens if an exception is thrown inside a catch block in C#?
+
+The program enters an infinite loop.
+
+The program crashes.
+
+The finally block is executed.
+
+The exception is ignored.
+
+The exception is propagated to the calling code.
+
+Các phương án lựa chọn:
+  A. The program enters an infinite loop.
+  B. The program crashes.
+  C. The finally block is executed.
+  D. The exception is ignored.
+  E. The exception is propagated to the calling code.
+
+============================================================
+Câu 77:
+Which of the following options represents the correct way to declare and assign a string variable in C#?
+
+string MyString = "Hello";
+
+string = "Hello";
+
+MyString = "Hello";
+
+str MyString = "Hello";
+
+string MyString;
+
+Các phương án lựa chọn:
+  A. string MyString = "Hello";
+  B. string = "Hello";
+  C. MyString = "Hello";
+  D. str MyString = "Hello";
+  E. string MyString;
+
+============================================================
+Câu 78:
+How do you define a code block in C#?
+
+Using the segment keyword.
+
+Using the block keyword.
+
+Using the start and end keywords.
+
+Using curly braces { }.
+
+Using indentation without any specific keywords.
+
+Các phương án lựa chọn:
+  A. Using the segment keyword.
+  B. Using the block keyword.
+  C. Using the start and end keywords.
+  D. Using curly braces { }.
+  E. Using indentation without any specific keywords.
+
+============================================================
+Câu 79:
+What is the purpose of the using directive in C#?
+
+It is used to define loops.
+
+It is used to declare variables.
+
+It is used to perform arithmetic operations.
+
+It is used to provide a shorter alias for a namespace.
+
+It is used to create classes.
+
+Các phương án lựa chọn:
+  A. It is used to define loops.
+  B. It is used to declare variables.
+  C. It is used to perform arithmetic operations.
+  D. It is used to provide a shorter alias for a namespace.
+  E. It is used to create classes.
+
+============================================================
+Câu 80:
+What is the purpose of the Step Over debugging command in Visual Studio Code?
+
+It executes the current line of code and stops at the next line.
+
+It enables you to step through the code line by line.
+
+It allows you to skip to the next breakpoint in the code.
+
+It executes the code without stepping into any function or method calls.
+
+It allows you to step into a function or method.
+
+Các phương án lựa chọn:
+  A. It executes the current line of code and stops at the next line.
+  B. It enables you to step through the code line by line.
+  C. It allows you to skip to the next breakpoint in the code.
+  D. It executes the code without stepping into any function or method calls.
+  E. It allows you to step into a function or method.
+
